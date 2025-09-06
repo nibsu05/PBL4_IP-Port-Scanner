@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 scan_nmap_discord.py (extended with removal detection)
-- Quét port trên target chính (192.168.196.96)
+- Quét port trên target chính
 - Quét subnet để phát hiện host mới
 - Gửi Discord webhook khi:
   + Lần đầu chạy (báo toàn bộ port target chính)
@@ -184,4 +184,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
