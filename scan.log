@@ -1,0 +1,3 @@
+2025-09-06 11:33:57,643 [INFO] Running: nmap -p- -sV -Pn -oG - 192.168.196.96
+2025-09-06 11:34:27,210 [INFO] Running: nmap -sn -oG - 192.168.196.0/24
+2025-09-06 11:34:31,669 [INFO] Scan completed - Target: 1 ports, Subnet: 3 hosts
