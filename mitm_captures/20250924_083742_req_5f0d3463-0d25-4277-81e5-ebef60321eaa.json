@@ -1,0 +1,17 @@
+{
+  "id": "5f0d3463-0d25-4277-81e5-ebef60321eaa",
+  "when": "20250924_083742",
+  "type": "request",
+  "method": "GET",
+  "url": "https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/ms-language-packs/records/cfr-v1-en-US",
+  "headers": {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "accept": "application/json",
+    "accept-language": "en-US,en;q=0.5",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "content-type": "application/json",
+    "priority": "u=4",
+    "te": "trailers"
+  },
+  "text": ""
+}

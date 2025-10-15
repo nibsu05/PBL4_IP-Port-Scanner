@@ -1,0 +1,22 @@
+{
+  "id": "1231a173-e48e-44e9-943d-2d0f670c42a5",
+  "when": "20250924_083847",
+  "type": "response",
+  "url": "https://incoming.telemetry.mozilla.org/submit/firefox-desktop/newtab/1/e7cff966-c586-4654-a096-10f716cd2385",
+  "status": 200,
+  "headers": {
+    "server": "openresty",
+    "date": "Wed, 24 Sep 2025 01:38:47 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Accept-Encoding",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "DENY",
+    "access-control-allow-methods": "GET, POST, PUT, OPTIONS",
+    "access-control-max-age": "1728000",
+    "access-control-allow-headers": "Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent",
+    "content-encoding": "gzip",
+    "via": "1.1 google",
+    "alt-svc": "clear"
+  },
+  "text": ""
+}

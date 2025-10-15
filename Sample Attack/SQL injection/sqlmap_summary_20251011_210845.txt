@@ -1,0 +1,12 @@
+Summary generated: 2025-10-11T21:11:02.426198
+
+Warnings:
+  - URI parameter '#1*' does not appear to be dynamic
+  - heuristic (basic) test shows that URI parameter '#1*' might not be injectable
+  - time-based comparison requires larger statistical model, please wait. (done)
+  - URI parameter '#1*' does not seem to be injectable
+
+Other findings:
+  - No injectable parameters found.
+
+Full stdout saved at: D:\PBL4_IP-Port-Scanner\Sample Attack\SQL injection\sqlmap_output_20251011_210845.txt

@@ -1,0 +1,15 @@
+{
+  "id": "8ea7eddd-78a7-48ed-adc4-1d3673740ac0",
+  "when": "20250924_083743",
+  "type": "request",
+  "method": "GET",
+  "url": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/ms-language-packs/b8aa99dd-b2b6-4312-8c40-d15867393b13.ftl",
+  "headers": {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.5",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "te": "trailers"
+  },
+  "text": ""
+}

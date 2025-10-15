@@ -1,0 +1,19 @@
+{
+  "id": "409475e2-af0f-4f54-a2f9-1b209d7aa610",
+  "when": "20250924_101027",
+  "type": "request",
+  "method": "GET",
+  "url": "http://detectportal.firefox.com/success.txt?ipv4",
+  "headers": {
+    "Host": "detectportal.firefox.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate",
+    "Connection": "keep-alive",
+    "Priority": "u=4",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache"
+  },
+  "text": ""
+}

@@ -1,0 +1,20 @@
+{
+  "id": "12b25c81-98cb-4b1f-86a1-744f3b79710d",
+  "when": "20250924_103135",
+  "type": "request",
+  "method": "GET",
+  "url": "http://192.168.200.10/Account/Login",
+  "headers": {
+    "Host": "192.168.200.10",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate",
+    "Connection": "keep-alive",
+    "Referer": "http://192.168.200.10/",
+    "Cookie": ".AspNetCore.Session=CfDJ8JrnDBMHPzpEjaTjuoH6xZNW8ne0PLDtfpqpZdqFnXG0mEZnSj6SAJQ1lu6SO0yPGPglTyhMrXhb3QqpaInc6YcOfc2u5zH8%2Bhx1Qzo7IiyGDmI4hozWUQttWtorj6xw8gUf4UG7%2FsNP7hA5Gjlacd%2F4oAmGYbJZvlZSUtGAwsLT",
+    "Upgrade-Insecure-Requests": "1",
+    "Priority": "u=0, i"
+  },
+  "text": ""
+}

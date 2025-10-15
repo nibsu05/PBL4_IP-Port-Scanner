@@ -1,0 +1,11 @@
+Summary generated: 2025-10-11T20:57:18.712399
+
+Warnings:
+  - you've provided target URL without any GET parameters (e.g. 'http://www.site.com/article.php?id=1') and without providing any POST parameters through option '--data'
+  - heuristic (basic) test shows that URI parameter '#1*' might not be injectable
+  - URI parameter '#1*' does not seem to be injectable
+
+Other findings:
+  - No injectable parameters found.
+
+Full stdout saved at: D:\PBL4_IP-Port-Scanner\Sample Attack\SQL injection\sqlmap_output_20251011_205454.txt

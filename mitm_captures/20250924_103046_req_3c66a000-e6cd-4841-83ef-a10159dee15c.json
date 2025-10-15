@@ -1,0 +1,19 @@
+{
+  "id": "3c66a000-e6cd-4841-83ef-a10159dee15c",
+  "when": "20250924_103046",
+  "type": "request",
+  "method": "GET",
+  "url": "https://lh3.googleusercontent.com/p/AF1QipMJCkltCD_Dfkhg21aXqG9OYQMs3pGF_InnZaos=w92-h92-n-k-no",
+  "headers": {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+    "accept-language": "en-US,en;q=0.5",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "priority": "u=5, i",
+    "te": "trailers"
+  },
+  "text": ""
+}

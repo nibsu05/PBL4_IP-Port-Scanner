@@ -1,0 +1,6 @@
+Summary generated: 2025-10-14T16:48:37.464940
+
+Warnings:
+  - HTTP error codes detected during run:
+
+Full stdout saved at: D:\PBL4_IP-Port-Scanner\Sample Attack\SQL injection\sqlmap_output_20251014_164835.txt

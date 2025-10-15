@@ -1,0 +1,15 @@
+{
+  "id": "52ea038a-51bf-4e27-83c9-eab212e7bac8",
+  "when": "20250924_100927",
+  "type": "request",
+  "method": "GET",
+  "url": "https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-10-19-08-10-44.chain",
+  "headers": {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.5",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "te": "trailers"
+  },
+  "text": ""
+}

@@ -1,0 +1,20 @@
+{
+  "id": "83d8980c-a003-4360-9d21-982cc626aa1a",
+  "when": "20250924_101305",
+  "type": "request",
+  "method": "GET",
+  "url": "https://static.xx.fbcdn.net/rsrc.php/v4/yk/r/twhQtuiSPgG.png",
+  "headers": {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+    "accept-language": "en-US,en;q=0.5",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "referer": "https://static.xx.fbcdn.net/rsrc.php/v5/yq/l/0,cross/w525vc-ThEd.css",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "same-origin",
+    "priority": "u=4, i",
+    "te": "trailers"
+  },
+  "text": ""
+}

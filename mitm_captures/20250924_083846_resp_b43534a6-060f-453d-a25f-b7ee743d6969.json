@@ -1,0 +1,22 @@
+{
+  "id": "b43534a6-060f-453d-a25f-b7ee743d6969",
+  "when": "20250924_083846",
+  "type": "response",
+  "url": "https://incoming.telemetry.mozilla.org/submit/firefox-desktop/nimbus-targeting-context/1/4a38191f-7ee9-4f0c-b443-20403fbc62e6",
+  "status": 200,
+  "headers": {
+    "server": "openresty",
+    "date": "Wed, 24 Sep 2025 01:38:46 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Accept-Encoding",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "DENY",
+    "access-control-allow-methods": "GET, POST, PUT, OPTIONS",
+    "access-control-max-age": "1728000",
+    "access-control-allow-headers": "Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent",
+    "content-encoding": "gzip",
+    "via": "1.1 google",
+    "alt-svc": "clear"
+  },
+  "text": ""
+}

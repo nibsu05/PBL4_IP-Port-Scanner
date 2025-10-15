@@ -1,0 +1,16 @@
+{
+  "id": "30602270-cfef-4627-95ca-52befdc3c459",
+  "when": "20250924_102951",
+  "type": "request",
+  "method": "GET",
+  "url": "https://firefox.settings.services.mozilla.com/v1/buckets/security-state/collections/cert-revocations/changeset?_expected=1758682627683",
+  "headers": {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "accept": "application/json",
+    "accept-language": "en-US,en;q=0.5",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "content-type": "application/json",
+    "te": "trailers"
+  },
+  "text": ""
+}

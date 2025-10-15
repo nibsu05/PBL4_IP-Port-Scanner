@@ -1,0 +1,17 @@
+{
+  "id": "d1e5d8fe-e2b0-4992-9eb3-1704e6df9e50",
+  "when": "20250924_102954",
+  "type": "request",
+  "method": "GET",
+  "url": "https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-11-08-08-20-52.chain",
+  "headers": {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.5",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "if-modified-since": "Fri, 19 Sep 2025 08:20:53 GMT",
+    "if-none-match": "\"a65ac99f4984ec70df2b62e4b77adfee\"",
+    "te": "trailers"
+  },
+  "text": ""
+}

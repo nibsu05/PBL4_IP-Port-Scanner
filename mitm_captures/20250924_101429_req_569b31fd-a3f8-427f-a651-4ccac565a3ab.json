@@ -1,0 +1,21 @@
+{
+  "id": "569b31fd-a3f8-427f-a651-4ccac565a3ab",
+  "when": "20250924_101429",
+  "type": "request",
+  "method": "GET",
+  "url": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js",
+  "headers": {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.5",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "referer": "http://127.0.0.1:5038/",
+    "sec-fetch-dest": "script",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site",
+    "pragma": "no-cache",
+    "cache-control": "no-cache",
+    "te": "trailers"
+  },
+  "text": ""
+}

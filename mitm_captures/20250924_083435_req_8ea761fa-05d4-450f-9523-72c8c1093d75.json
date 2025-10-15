@@ -1,0 +1,19 @@
+{
+  "id": "8ea761fa-05d4-450f-9523-72c8c1093d75",
+  "when": "20250924_083435",
+  "type": "request",
+  "method": "GET",
+  "url": "http://mitm.it/cert/pem",
+  "headers": {
+    "Host": "mitm.it",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "vi-VN,vi;q=0.8,en-US;q=0.5,en;q=0.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Connection": "keep-alive",
+    "Referer": "http://mitm.it/",
+    "Upgrade-Insecure-Requests": "1",
+    "Priority": "u=0, i"
+  },
+  "text": ""
+}

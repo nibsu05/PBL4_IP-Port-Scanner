@@ -1,0 +1,15 @@
+{
+  "id": "015caba2-cd9f-4d85-a37a-a6a5f9193aca",
+  "when": "20250924_102953",
+  "type": "request",
+  "method": "GET",
+  "url": "https://content-signature-2.cdn.mozilla.net/g/chains/202402/onecrl.content-signature.mozilla.org-2025-10-21-10-49-34.chain",
+  "headers": {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.5",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "te": "trailers"
+  },
+  "text": ""
+}

@@ -1,0 +1,21 @@
+{
+  "id": "8a5749d0-3988-4a79-bd12-a4cbc6402b92",
+  "when": "20250924_083750",
+  "type": "request",
+  "method": "GET",
+  "url": "https://static.xx.fbcdn.net/rsrc.php/v5/yq/l/0,cross/w525vc-ThEd.css",
+  "headers": {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "accept": "text/css,*/*;q=0.1",
+    "accept-language": "en-US,en;q=0.5",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "origin": "https://www.facebook.com",
+    "referer": "https://www.facebook.com/",
+    "sec-fetch-dest": "style",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "priority": "u=2",
+    "te": "trailers"
+  },
+  "text": ""
+}

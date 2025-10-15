@@ -1,0 +1,15 @@
+{
+  "id": "d1e5d8fe-e2b0-4992-9eb3-1704e6df9e50",
+  "when": "20250924_102954",
+  "type": "response",
+  "url": "https://content-signature-2.cdn.mozilla.net/g/chains/202402/remote-settings.content-signature.mozilla.org-2025-11-08-08-20-52.chain",
+  "status": 304,
+  "headers": {
+    "date": "Wed, 24 Sep 2025 03:18:35 GMT",
+    "age": "679",
+    "etag": "\"a65ac99f4984ec70df2b62e4b77adfee\"",
+    "cache-control": "public,max-age=3600",
+    "alt-svc": "clear"
+  },
+  "text": ""
+}

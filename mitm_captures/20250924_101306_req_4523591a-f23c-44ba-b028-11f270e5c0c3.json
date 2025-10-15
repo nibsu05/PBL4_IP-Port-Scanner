@@ -1,0 +1,21 @@
+{
+  "id": "4523591a-f23c-44ba-b028-11f270e5c0c3",
+  "when": "20250924_101306",
+  "type": "request",
+  "method": "GET",
+  "url": "https://facebook.com/security/hsts-pixel.gif",
+  "headers": {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+    "accept-language": "en-US,en;q=0.5",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "referer": "https://www.facebook.com/",
+    "cookie": "datr=wGHTaOekM5ysv4PLlPO4f88R, fr=0GWGhZu9t7KydqY0S..Bo02HA..AAA.0.0.Bo02HA.AWfQU6n4ClPYlBbQ2Dhluq_KiTM, sb=wGHTaKtVdE3RmCabgbUDOs85",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "same-site",
+    "priority": "u=5, i",
+    "te": "trailers"
+  },
+  "text": ""
+}

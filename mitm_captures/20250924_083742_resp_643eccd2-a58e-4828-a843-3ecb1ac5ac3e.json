@@ -1,0 +1,20 @@
+{
+  "id": "643eccd2-a58e-4828-a843-3ecb1ac5ac3e",
+  "when": "20250924_083742",
+  "type": "response",
+  "url": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/18c7861f-0c9d-48d4-a98c-fb8999e331bd.avif",
+  "status": 304,
+  "headers": {
+    "date": "Wed, 24 Sep 2025 01:37:42 GMT",
+    "via": "1.1 varnish",
+    "cache-control": "public, max-age=3600",
+    "etag": "\"791eab0e194b4a3efc195f12ebb440f7\"",
+    "expires": "Tue, 09 Sep 2025 00:04:08 GMT",
+    "age": "1847",
+    "x-served-by": "cache-nrt-rjtf7700071-NRT",
+    "x-cache": "HIT",
+    "x-cache-hits": "831",
+    "x-timer": "S1758677862.275566,VS0,VE0"
+  },
+  "text": ""
+}

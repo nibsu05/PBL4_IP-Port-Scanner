@@ -1,0 +1,19 @@
+{
+  "id": "b4e7ff4c-b6f3-4af8-a0c9-f9221d6855c9",
+  "when": "20250924_103136",
+  "type": "request",
+  "method": "GET",
+  "url": "http://192.168.200.10/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg",
+  "headers": {
+    "Host": "192.168.200.10",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "text/css,*/*;q=0.1",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate",
+    "Connection": "keep-alive",
+    "Referer": "http://192.168.200.10/Account/Login",
+    "Cookie": ".AspNetCore.Session=CfDJ8JrnDBMHPzpEjaTjuoH6xZNW8ne0PLDtfpqpZdqFnXG0mEZnSj6SAJQ1lu6SO0yPGPglTyhMrXhb3QqpaInc6YcOfc2u5zH8%2Bhx1Qzo7IiyGDmI4hozWUQttWtorj6xw8gUf4UG7%2FsNP7hA5Gjlacd%2F4oAmGYbJZvlZSUtGAwsLT; .AspNetCore.Antiforgery.uYJmeV3HsSU=CfDJ8JrnDBMHPzpEjaTjuoH6xZP_tIc1Koi6J-Z5u067neDVUeSq0Ah6ZS7txlPoL79Rbhi8PDpemmXRBB-wlRNhiq61iSTNoP1AHxTbI-C094OiVyH2wIMR6k4s43Wo_L_IdOxIFw6W-lRWtWs3TwNVIZY",
+    "Priority": "u=2"
+  },
+  "text": ""
+}

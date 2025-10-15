@@ -1,0 +1,27 @@
+{
+  "id": "c78d24f7-e898-4599-a065-c00fcf020d64",
+  "when": "20250924_083758",
+  "type": "request",
+  "method": "GET",
+  "url": "https://push.services.mozilla.com/",
+  "headers": {
+    "Host": "push.services.mozilla.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Sec-WebSocket-Version": "13",
+    "Origin": "wss://push.services.mozilla.com/",
+    "Sec-WebSocket-Protocol": "push-notification",
+    "Sec-WebSocket-Extensions": "permessage-deflate",
+    "Sec-WebSocket-Key": "yMR1oXOHELZY+EiUEtRufg==",
+    "Connection": "keep-alive, Upgrade",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "websocket",
+    "Sec-Fetch-Site": "cross-site",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Upgrade": "websocket"
+  },
+  "text": ""
+}

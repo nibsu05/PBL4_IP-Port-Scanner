@@ -1,0 +1,20 @@
+{
+  "id": "fb948b58-b431-49d9-86e0-891118cf19d8",
+  "when": "20250924_103449",
+  "type": "request",
+  "method": "GET",
+  "url": "http://192.168.200.10/images/home.jpg",
+  "headers": {
+    "Host": "192.168.200.10",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "Accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate",
+    "Connection": "keep-alive",
+    "Referer": "http://192.168.200.10/",
+    "Priority": "u=5, i",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache"
+  },
+  "text": ""
+}

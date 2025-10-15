@@ -1,0 +1,21 @@
+{
+  "id": "4c7428b2-90b5-4d4c-b05e-1ffed46eae3b",
+  "when": "20250924_101304",
+  "type": "request",
+  "method": "GET",
+  "url": "https://www.facebook.com/?locale=vi_VN",
+  "headers": {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "accept-language": "en-US,en;q=0.5",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "upgrade-insecure-requests": "1",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "none",
+    "sec-fetch-user": "?1",
+    "priority": "u=0, i",
+    "te": "trailers"
+  },
+  "text": ""
+}
