@@ -6,12 +6,12 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 
 # ========== CONFIG ==========
-BASE_URL = "http://localhost:5038"
+BASE_URL = "http://15.134.34.186:5000"
 REGISTER_PATH = "/Account/Register"
 FULL_REGISTER_URL = BASE_URL + REGISTER_PATH
 
 USERNAME_PREFIX = "auto_user"
-DEFAULT_PASSWORD = "123456789"
+DEFAULT_PASSWORD = "123456"
 NUM_ACCOUNTS = 20   # chỉ dùng nếu không load từ file
 PASSFILE = "accounts.csv"  # optional CSV: Account,Password,Name,Date,Sex,PhoneNumber,RoleName
 BASE_DELAY = 0.5

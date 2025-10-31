@@ -1,0 +1,23 @@
+ID,Username,Full_Name,Gender,Email,Phone,Role,Status
+1,admin,admin,Nữ,admin@example.com,0123456789,Người bán,Hoạt động
+2,user01,test1,Nam,user01@example.com,0859541899,Người bán,Hoạt động
+3,auto_user18149602_0,Le Van Dat 0,Nam,,0900000000,Người mua,Hoạt động
+4,auto_user18141244_1,Le Van Dat 1,Nam,,0900000001,Người mua,Hoạt động
+5,auto_user18142682_2,Le Van Dat 2,Nam,,0900000002,Người mua,Hoạt động
+6,auto_user18143666_3,Le Van Dat 3,Nam,,0900000003,Người mua,Hoạt động
+7,auto_user18144502_4,Le Van Dat 4,Nam,,0900000004,Người mua,Hoạt động
+8,auto_user18147101_5,Le Van Dat 5,Nam,,0900000005,Người mua,Hoạt động
+9,auto_user18146302_6,Le Van Dat 6,Nam,,0900000006,Người mua,Hoạt động
+10,auto_user18144288_7,Le Van Dat 7,Nam,,0900000007,Người mua,Hoạt động
+11,auto_user18146264_8,Le Van Dat 8,Nam,,0900000008,Người mua,Hoạt động
+12,auto_user18146149_9,Le Van Dat 9,Nam,,0900000009,Người mua,Hoạt động
+13,auto_user18146749_10,Le Van Dat 10,Nam,,0900000010,Người mua,Hoạt động
+14,auto_user18149444_11,Le Van Dat 11,Nam,,0900000011,Người mua,Hoạt động
+15,auto_user18141225_12,Le Van Dat 12,Nam,,0900000012,Người mua,Hoạt động
+16,auto_user18148547_13,Le Van Dat 13,Nam,,0900000013,Người mua,Hoạt động
+17,auto_user1814321_14,Le Van Dat 14,Nam,,0900000014,Người mua,Hoạt động
+18,auto_user18142800_15,Le Van Dat 15,Nam,,0900000015,Người mua,Hoạt động
+19,auto_user18149538_16,Le Van Dat 16,Nam,,0900000016,Người mua,Hoạt động
+20,auto_user18148184_17,Le Van Dat 17,Nam,,0900000017,Người mua,Hoạt động
+21,auto_user18144551_18,Le Van Dat 18,Nam,,0900000018,Người mua,Hoạt động
+22,auto_user18143223_19,Le Van Dat 19,Nam,,0900000019,Người mua,Hoạt động
