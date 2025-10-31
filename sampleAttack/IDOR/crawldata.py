@@ -87,7 +87,7 @@ def crawl_user_management():
 
     if users:
         df = pd.DataFrame(users)
-        df.to_csv('users_data.csv', index=False)
+        df.to_csv('sampleAttack/IDOR/result/users_data.csv', index=False)
         print(f"Saved {len(users)} users to users_data.csv")
     else:
         print("No users saved.")
@@ -144,7 +144,7 @@ def crawl_product_management():
 
     if products:
         df = pd.DataFrame(products)
-        df.to_csv('products_data.csv', index=False)
+        df.to_csv('sampleAttack/IDOR/result/products_data.csv', index=False)
         print(f"Saved {len(products)} products to products_data.csv")
     else:
         print("No products saved.")
@@ -161,7 +161,7 @@ def main():
 
         if users or products:
             data = {'users': users, 'products': products}
-            with open('crawled_data.json', 'w', encoding='utf-8') as f:
+            with open('sampleAttack/IDOR/result/crawled_data.json', 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=4)
             print("Saved combined crawled_data.json")
     except Exception as e:

@@ -1,0 +1,250 @@
+{
+    "users": [
+        {
+            "ID": "1",
+            "Username": "admin",
+            "Full_Name": "admin",
+            "Gender": "Nữ",
+            "Email": "admin@example.com",
+            "Phone": "0123456789",
+            "Role": "Người bán",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "2",
+            "Username": "user01",
+            "Full_Name": "test1",
+            "Gender": "Nam",
+            "Email": "user01@example.com",
+            "Phone": "0859541899",
+            "Role": "Người bán",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "3",
+            "Username": "auto_user18149602_0",
+            "Full_Name": "Le Van Dat 0",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000000",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "4",
+            "Username": "auto_user18141244_1",
+            "Full_Name": "Le Van Dat 1",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000001",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "5",
+            "Username": "auto_user18142682_2",
+            "Full_Name": "Le Van Dat 2",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000002",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "6",
+            "Username": "auto_user18143666_3",
+            "Full_Name": "Le Van Dat 3",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000003",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "7",
+            "Username": "auto_user18144502_4",
+            "Full_Name": "Le Van Dat 4",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000004",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "8",
+            "Username": "auto_user18147101_5",
+            "Full_Name": "Le Van Dat 5",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000005",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "9",
+            "Username": "auto_user18146302_6",
+            "Full_Name": "Le Van Dat 6",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000006",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "10",
+            "Username": "auto_user18144288_7",
+            "Full_Name": "Le Van Dat 7",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000007",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "11",
+            "Username": "auto_user18146264_8",
+            "Full_Name": "Le Van Dat 8",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000008",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "12",
+            "Username": "auto_user18146149_9",
+            "Full_Name": "Le Van Dat 9",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000009",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "13",
+            "Username": "auto_user18146749_10",
+            "Full_Name": "Le Van Dat 10",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000010",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "14",
+            "Username": "auto_user18149444_11",
+            "Full_Name": "Le Van Dat 11",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000011",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "15",
+            "Username": "auto_user18141225_12",
+            "Full_Name": "Le Van Dat 12",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000012",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "16",
+            "Username": "auto_user18148547_13",
+            "Full_Name": "Le Van Dat 13",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000013",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "17",
+            "Username": "auto_user1814321_14",
+            "Full_Name": "Le Van Dat 14",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000014",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "18",
+            "Username": "auto_user18142800_15",
+            "Full_Name": "Le Van Dat 15",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000015",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "19",
+            "Username": "auto_user18149538_16",
+            "Full_Name": "Le Van Dat 16",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000016",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "20",
+            "Username": "auto_user18148184_17",
+            "Full_Name": "Le Van Dat 17",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000017",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "21",
+            "Username": "auto_user18144551_18",
+            "Full_Name": "Le Van Dat 18",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000018",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        },
+        {
+            "ID": "22",
+            "Username": "auto_user18143223_19",
+            "Full_Name": "Le Van Dat 19",
+            "Gender": "Nam",
+            "Email": "",
+            "Phone": "0900000019",
+            "Role": "Người mua",
+            "Status": "Hoạt động"
+        }
+    ],
+    "products": [
+        {
+            "ID": "1",
+            "Product_Name": "Laptop HP 15 fc0085AU - A6VV8PA (R5 7430U, 16GB, 512GB, Full HD, Win11)",
+            "Price": "20,000 VNĐ",
+            "Category": "Laptop, Máy vi tính & Linh kiện",
+            "Seller": "Cửa hàng 1",
+            "Status": "Đang bán"
+        },
+        {
+            "ID": "2",
+            "Product_Name": "Laptop Asus Vivobook Go 15 E1504FA - NJ776W (R5 7520U, 16GB, 512GB, Full HD, Win11)",
+            "Price": "30,000 VNĐ",
+            "Category": "Laptop, Máy vi tính & Linh kiện",
+            "Seller": "Cửa hàng 1",
+            "Status": "Đang bán"
+        },
+        {
+            "ID": "3",
+            "Product_Name": "Laptop Dell Inspiron 15 3530 - N5I5530W1 (i5 1334U, 16GB, 512GB, Full HD 120Hz, OfficeH24+365, Win11",
+            "Price": "40,000 VNĐ",
+            "Category": "Laptop, Máy vi tính & Linh kiện",
+            "Seller": "Cửa hàng 1",
+            "Status": "Đang bán"
+        }
+    ]
+}
